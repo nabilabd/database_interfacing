@@ -1,2 +1,2 @@
-# database_interfacing
+# database interfacing
 Working with databases from R
